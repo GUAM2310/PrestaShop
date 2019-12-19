@@ -145,4 +145,4 @@ Thank you for downloading and using the PrestaShop Open Source e-commerce soluti
 [create-issue]: https://github.com/PrestaShop/PrestaShop/issues/new/choose
 [reporting-issues]: https://devdocs.prestashop.com/1.7/contribute/contribute-reporting-issues/
 [modules-devdocs]: https://devdocs.prestashop.com/1.7/modules/
-[themes-devdocs]: https://devdocs.prestashop.com/1.7/themes/
+[themes-devdocs]: https://devdocs.prestashop.com/1.7/themes/gggg
